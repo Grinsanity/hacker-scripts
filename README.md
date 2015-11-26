@@ -1,5 +1,7 @@
 # Hacker Scripts
 
+
+THIS IS NOT MINE. I FORKED THIS FROM NARKOZ. I REPEAT. THIS. IS. NOT. MINE. I FORKED IT TO FIDDLE WITH IT CAUSE IT WAS COOL.
 Based on a _[true
 story](https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/)_:
 
